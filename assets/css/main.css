@@ -31,6 +31,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+	word-spacing: 0.15rem;
 }
 
 ol, ul {
@@ -172,6 +173,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2rem 0;
+
 	}
 
 	h1, h2 {
@@ -180,7 +182,7 @@ input, select, textarea {
 		line-height: 1.5;
 		margin: 0 0 1rem 0;
 		text-transform: uppercase;
-		letter-spacing: 0.2rem;
+		letter-spacing: 0.15rem;
 	}
 
 	h3, h4, h5, h6 {
